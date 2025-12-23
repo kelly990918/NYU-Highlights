@@ -34,4 +34,4 @@ A start-up analysis for [Codédex](https://www.codedex.io/), a coding self-learn
 
 ## Web Design: From HTML to Web Destinations, Fall 24
 Designed and created **College Travelers**, an alternative platform for major travel sites filled with ads. Hand-coded HTML site with some debugging help from Grok.
-- 🤖 [HTML site (not deployed)]()# NYU-Highlights
+- 🤖 [HTML site (not deployed)]()
