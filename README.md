@@ -1,6 +1,6 @@
 # NYU Project Highlights
 
-Some creative projects I did in the NYU Publishing program!
+Some individual creative projects I did in the NYU Publishing program!
 <br>
 <br>
 _In alphabetical order—_
