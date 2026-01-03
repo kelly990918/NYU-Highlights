@@ -38,5 +38,9 @@ A start-up analysis for [Codédex](https://www.codedex.io/), a coding self-learn
 Designed and created ***College Travelers***, an alternative platform for major travel sites filled with ads. Hand-coded HTML site with some debugging help from Grok.
 - 🤖 [The Code (not deployed)](https://github.com/kelly990918/NYU-Highlights/tree/main/college_travelers)
 
+--- 
+
+If you want to see some sharing for the course, see [this article](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/nyu-pub.md).
+
 ---
 © 2025 Yi Yan Leung. This repository is licensed under CC BY-SA 4.0.
