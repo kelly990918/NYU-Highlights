@@ -6,7 +6,7 @@ Some individual creative projects I did in the NYU Publishing program!
 _In alphabetical order—_
 
 ## 📚 Book Marketing and Branding, Spring '25 🦭
-First time working with an ARC...! Created a marketing & publicity plan for _A Year with the Seals_ (Algonquin Books, 2025). The presentation was short, but I  made a full marketing & publicity plan for this course!
+First time working with an ARC...! Created a marketing & publicity plan for _A Year with the Seals_ (Algonquin Books, 2025). The presentation was short, but I  made a full marketing & publicity plan for this course (but too shy to show the whole thing)!
 - 🌟 [Presentation](https://github.com/kelly990918/NYU-Highlights/blob/main/book-mkt.pdf)
 
 ## 💻 Capstone Project, Fall '25 🇭🇰
