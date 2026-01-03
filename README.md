@@ -31,7 +31,7 @@ Created a pitch deck for ***Philatelic Asia***, a fully digital site covering ph
 - 🌟 [Presentation](https://github.com/kelly990918/NYU-Highlights/blob/main/digital-brand.pdf)
 
 ## 💻 Publishing Start-Ups: Strategies for Success, Spring '25 👾
-A start-up analysis for [Codédex](https://www.codedex.io/), a coding self-learning site. I really like their pixel art design.
+A start-up analysis for [Codédex](https://www.codedex.io/), a coding self-learning site. I really like their pixel art design, and their course module design inspired my Capstone content designs too!
 - 🌟 [Presentation](https://github.com/kelly990918/NYU-Highlights/blob/main/start-up.pdf)
 
 ## 💻 Web Design: From HTML to Web Destinations, Fall '24 🚀
