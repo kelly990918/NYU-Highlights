@@ -35,8 +35,9 @@ A start-up analysis for [Codédex](https://www.codedex.io/), a coding self-learn
 - 🌟 [Presentation](https://github.com/kelly990918/NYU-Highlights/blob/main/start-up.pdf)
 
 ## 💻 Web Design: From HTML to Web Destinations, Fall '24 🚀
-Designed and created ***College Travelers***, an alternative platform for major travel sites filled with ads. Hand-coded HTML site with some debugging help from Grok.
+Designed and created ***College Travelers***, an alternative platform for major travel sites filled with ads. Hand-coded HTML site with some debugging help from Grok.<br>
 - 🤖 [The Code (not deployed)](https://github.com/kelly990918/NYU-Highlights/tree/main/college_travelers)
+<img style="width: 500px; height: auto;" src="https://github.com/kelly990918/NYU-Highlights/blob/main/webdesign-page.png">
 
 --- 
 
